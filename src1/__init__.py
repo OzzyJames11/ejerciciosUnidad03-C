@@ -1,0 +1,2 @@
+from .ajuste import ajusteMinimosCuadrados, hallarCoeficientes, graficarAjustePolinomial
+from .ajuste import graficarAjusteNoLineal, calcularExpresionOriginal
